@@ -1,0 +1,3 @@
+1, Versionhantering är ett sätt att hantera versioner och kunna gå tillbaka i tiden och se vilka ändringar som gjorts. Den stora skillnaden mellan att spara lokalt på datorn och pusha till origin branchen upp på git är att när koden finns på Github kan du komma åt den från vilken dator som helst eftersom den finns på internet. 
+git status - visar ändringar, git add - stagar ändringar, git commit - skapar en ny commit med mina stagade filer. 
+Skillnaden är att projektmappen på datorn är lokal, medan repot på GitHub lagras online. Med git push laddar du upp dina lokala commits till GitHub så att repot uppdateras med dina ändringar.
